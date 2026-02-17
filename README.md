@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # Task Manager API
 
 A backend RESTful API for managing tasks, built using Node.js and Express.
