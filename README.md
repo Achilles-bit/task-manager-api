@@ -1,11 +1,8 @@
 <<<<<<< HEAD
-\# Task Manager API
+# Task Manager API
 
-
-
-Simple REST API to manage tasks.
-
-
+A backend RESTful API for managing tasks, built using Node.js and Express.
+The project demonstrates clean routing structure, HTTP method handling, and scalable API design principles.
 
 \## Tech Stack
 
