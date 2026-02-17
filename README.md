@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 \# Task Manager API
 
 
@@ -32,3 +33,6 @@ npm run dev
 
 
 
+=======
+# task-manager-api
+>>>>>>> 0e5428cda9083a0bd9d760e3e7220b54bdf355aa
